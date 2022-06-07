@@ -1,5 +1,5 @@
 header {
-    background-color: white;
+    background-color:#33383b;
     padding: 15px;
     padding-top: 0px;
     width: 100%;
@@ -26,6 +26,7 @@ header a {
 
 .demtatto1 {
     padding-left: 10px;
-    color: aqua;
-    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue'
+    color: blue;
+    font: oblique'cookie'cursive;
+font-weight: bold;
 }
