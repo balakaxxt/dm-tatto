@@ -1,5 +1,5 @@
 header {
-    background-color:white;
+    background-color:#33383b;
     padding: 15px;
     padding-top: 0px;
     width: 100%;
@@ -13,7 +13,7 @@ header a {
 
 
 .dmtatto {
-    color: antiquewhite;
+    color: white;
     text-decoration: none;
     padding-top: 10px;
     padding-left: 30px;
@@ -26,7 +26,7 @@ header a {
 
 .demtatto1 {
     padding-left: 10px;
-    color: blue;
+    color: #3f71ea;
     font: oblique'cookie'cursive;
-font-weight: bold;
+    font-weight: bold;
 }
