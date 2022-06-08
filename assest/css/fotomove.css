@@ -47,10 +47,9 @@
      @media (max-width: 360px) {
         
         .fotosmove{
-            height: 150px;
-            width: 100px;
-            top:30%;
-            left: 20%;
+            margin: 200px;
+            height:150px;
+        
             
         }
     }
