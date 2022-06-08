@@ -4,6 +4,7 @@ function abrirMenu() {
     document.getElementById('conteudo').style.marginLeft = '250px';
     document.getElementById('#dmtatto').style.marginLeft = '250px';
     
+    
 
 
 }
