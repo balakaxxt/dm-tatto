@@ -14,7 +14,7 @@
         height: 600px;
         
     }
-    @media (max-width: 360px) {
+    @media (max-width: 390px) {
         
         main {
             margin: 600px;
@@ -48,7 +48,7 @@
         
         .fotosmove{
         
-            height: 250px;
+            height: 200px;
             width: 100%;
             top:40%;
             left:50%;
