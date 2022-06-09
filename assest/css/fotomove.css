@@ -50,8 +50,11 @@
         
             height: 300px;
             width: 100px;
-            top:40%;
-            left:30%;
+            position:relative;
+            overflow: hidden;
+            top:30%;
+            left:10%;
+            padding-top:10px;
         
         }
     }
