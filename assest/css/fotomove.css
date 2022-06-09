@@ -44,12 +44,12 @@
         
         
     }
-     @media (max-width: 360px) {
+     @media (max-width: 600px) {
         
         .fotosmove{
         
             height: 300px;
-            width: 100px;
+            width: 100%;
             position:relative;
             overflow: hidden;
             top:30%;
