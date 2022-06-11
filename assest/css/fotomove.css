@@ -22,10 +22,9 @@
         border-radius: 20px;
         overflow: hidden;
         top: 40%;
-        left: 50%;
         transform: translate(-50%, -50%);
         padding-top: 20px;
-        
+        margin-left: center;
         
         
         
