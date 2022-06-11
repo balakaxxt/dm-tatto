@@ -9,20 +9,6 @@
     font: normal 20px arial, verdana, serif;
     text-align: left;
 }
-  main {
-        margin: 700px;
-        height: 600px;
-        
-    }
-    @media (max-width: 390px) {
-        
-        main {
-            margin: 600px;
-            height: 600px;
-            
-        }
-    }
-
     .fotosmove span{margin-left: 40px;
     font-size: center;
 
