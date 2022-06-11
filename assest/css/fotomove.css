@@ -25,6 +25,7 @@
         transform: translate(-50%, -50%);
         padding-top: 20px;
         margin-left: center;
+        margin-right: 30px;
         
         
         
@@ -38,7 +39,7 @@
             position:relative;
             overflow: hidden;
             top:30%;
-            left:40%;
+            left:10%;
             padding-top:10px;
         
         }
